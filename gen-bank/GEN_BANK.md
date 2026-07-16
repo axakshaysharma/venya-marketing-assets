@@ -8,6 +8,10 @@ single) · HOLD (pending Akshay decision) · BURNED (grid-posted, cover-once)._
 
 Raw URL pattern: `https://raw.githubusercontent.com/axakshaysharma/venya-marketing-assets/main/gen-bank/<file>`
 
+Also in this repo, pre-dating the bank (already indexed in instagram/IMAGE_LEDGER.md):
+`topic-options/2026-07-12/` — 6 skygarden-era options (haveli + balcony POV = PICKED for Jul 20/24 singles).
+`creatives/**` — built, queued or posted creatives (burn status in the ledger).
+
 | File | What it is | Higgsfield job | Status |
 |---|---|---|---|
 | hero_medgrove_frontal.png | Mediterranean Grove theme hero (frontal, reference-driven) | 38db70ad | HOLD — Akshay left unapproved Jul 15, decision pending |
@@ -24,8 +28,3 @@ Raw URL pattern: `https://raw.githubusercontent.com/axakshaysharma/venya-marketi
 | skygarden_telephoto_facade.jpg | Skygarden unused expansion shot | (skygarden run) | AVAILABLE |
 | skygarden_tight_aerial.jpg | Skygarden unused expansion shot | (skygarden run) | AVAILABLE |
 | skygarden_garden_path.jpg | Skygarden unused expansion shot | (skygarden run) | AVAILABLE — offered Jul 20 selector opt5 |
-
-Also in this repo, pre-dating the bank (already indexed in instagram/IMAGE_LEDGER.md):
-`topic-options/2026-07-12/` — 6 skygarden-era options (haveli + balcony POV = PICKED for Jul 20/24 singles).
-`creatives/**` — built, queued or posted creatives (burn status in the ledger).
-| synctest_engine_bridge.webp | END-TO-END BRIDGE TEST — safe to delete | (via sync queue, Claude Code) | AVAILABLE |
