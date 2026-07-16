@@ -28,3 +28,4 @@ Also in this repo, pre-dating the bank (already indexed in instagram/IMAGE_LEDGE
 | skygarden_telephoto_facade.jpg | Skygarden unused expansion shot | (skygarden run) | AVAILABLE |
 | skygarden_tight_aerial.jpg | Skygarden unused expansion shot | (skygarden run) | AVAILABLE |
 | skygarden_garden_path.jpg | Skygarden unused expansion shot | (skygarden run) | AVAILABLE — offered Jul 20 selector opt5 |
+| hero_bali_frontal.png | Bali Tropical theme hero option (frontal, Selenia-referenced) — Wed 22 July card | (via sync queue, Claude Code) | HOLD |
