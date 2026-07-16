@@ -28,3 +28,4 @@ Raw URL pattern: `https://raw.githubusercontent.com/axakshaysharma/venya-marketi
 Also in this repo, pre-dating the bank (already indexed in instagram/IMAGE_LEDGER.md):
 `topic-options/2026-07-12/` — 6 skygarden-era options (haveli + balcony POV = PICKED for Jul 20/24 singles).
 `creatives/**` — built, queued or posted creatives (burn status in the ledger).
+| synctest_engine_bridge.webp | END-TO-END BRIDGE TEST — safe to delete | (via sync queue, Claude Code) | AVAILABLE |
