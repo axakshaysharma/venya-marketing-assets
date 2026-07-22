@@ -45,3 +45,4 @@ Also in this repo, pre-dating the bank (already indexed in instagram/IMAGE_LEDGE
 | brick_garden_batch1_shotA_streetthreequarter.png | Brick & Garden Villas showcase (Sat 18 slot, banked) — Batch 1 Shot A: street three-quarter view, single-hero-reference expansion of approved hero job 66451d3d. Job 69c8b3de. | (via sync queue, CW) | AVAILABLE |
 | brick_garden_batch1_shotB_jalidetail.png | Brick & Garden Villas showcase (Sat 18 slot, banked) — Batch 1 Shot B: brick jali + cascading-greenery detail, single-hero-reference expansion of approved hero job 66451d3d. Job c0fa5dc5. | (via sync queue, CW) | AVAILABLE |
 | brickgarden_batch2v2_shotD_arrival.png | — | (via sync queue, CW) | HOLD |
+| brickgarden_batch2v2_shotC_livingroom.png | — | (via sync queue, CW) | HOLD |
