@@ -47,3 +47,4 @@ Also in this repo, pre-dating the bank (already indexed in instagram/IMAGE_LEDGE
 | brickgarden_batch2v2_shotD_arrival.png | — | (via sync queue, CW) | HOLD |
 | brickgarden_batch2v2_shotC_livingroom.png | — | (via sync queue, CW) | HOLD |
 | brickgarden_batch2v3_shotD_arrival.png | — | (via sync queue, CW) | HOLD |
+| brickgarden_batch3_shotE_greenroofdetail.png | Brick & Garden showcase (banked, was Sat 18 slot) — Batch 3 Shot E, living green-roof + brick-parapet detail. Single hero reference job 66451d3d (nano_banana). Generated to keep the expansion moving after Shot D (arrival/entry) failed QC 3x in a row (persistent brick-jali hallucination, confirmed by pixel view 20–22 July) — this composition avoids that wall-heavy framing per the plan in handoffs/CW/BRICK_GARDEN_expansion_ | (via sync queue, CW) | HOLD |
