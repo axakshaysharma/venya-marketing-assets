@@ -13,5 +13,10 @@ AKSHAY #5 against something he can see rather than a written description.
   the proof consumes **zero AVAILABLE bank stock** and touches neither of the two
   heroes SMM reserved for the Sat 22 Aug no-pick fallback.
 - **Builder:** `venya-ops/instagram/templates/build_render_vs_reality_proof.py`
-- **Copy is GD placeholder** to prove the layout. Final copy is CW's — and see the
-  provenance caveat in the design-directions doc before writing it.
+- **Copy is CW's, and cleared** (revised GD hourly, 20 Aug ~17:0x UTC). The card
+  now reads *"Buildings begin as drawings. Buyers begin at the render."* from
+  `venya-ops/handoffs/CW/RENDER_VS_REALITY_B_copy.md`. The first version's GD
+  placeholder headline *and* sub both claimed **this** image began as drawings;
+  it did not — the hero was generated from photographic precedent references, so
+  the copy may describe the category only. There is no sub line: one cleared line
+  carries the card.
